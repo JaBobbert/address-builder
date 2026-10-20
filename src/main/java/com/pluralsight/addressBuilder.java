@@ -42,7 +42,6 @@ public class addressBuilder {
         String mybuild = build.toString();
         System.out.println(mybuild);
 
-
-
+        scan.close();
     }
 }
